@@ -1,4 +1,4 @@
--  Hi, I’m @Omkar2240
+-  Hi, I’m Omkar Ramgirwar, Btech Data Science Student at GHRCEM Nagpur
 -  I’m interested in DSA and Web development
 -  I’m currently learning DSA
 -  I’m looking to collaborate on Projects
