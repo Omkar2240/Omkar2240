@@ -1,5 +1,5 @@
 -  Hi, I’m Omkar Ramgirwar, Btech Data Science Student at GHRCEM Nagpur
--  I’m interested in DSA and Web development
+-  I’m Web development
 -  I’m looking to collaborate on Projects
 
   <details>	
