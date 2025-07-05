@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Science Student. <br>Having a strong Interest in Web Developemnt. <br>Aspiring Software Developer.<br>AI and ML Enthusiast<br>
+I'm a Data Science Student. <br>Having a strong Interest in Full Stack Web Development. <br>Aspiring Software Developer.<br>AI and ML Enthusiast.<br>
 
 
 ## 🌐 Socials:
