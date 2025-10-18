@@ -1,4 +1,4 @@
-# 💫 About Me  
+# 💫 About Me 
 🎓 Data Science Student | 💻 Full Stack Developer | 🤖 AI & ML Enthusiast | 🚀 Aspiring SDE  
 
 ---
