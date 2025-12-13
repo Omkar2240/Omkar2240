@@ -56,10 +56,6 @@
 
 ---
 
-### ✍️ Quote of the Day  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Omkar2240&icon=10&color=13)](https://visitcount.itsvg.in)
 
