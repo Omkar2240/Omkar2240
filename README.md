@@ -89,7 +89,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Omkar2240&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Omkar2240&theme=tokyonight&hide_border=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Omkar2240&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar2240&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
@@ -98,11 +98,9 @@
 ---
 
 <details>
-<summary>🏅 <b>Open Source & Community Badges (Click to Expand)</b></summary>
+<summary>🏅 <b>GSSOC (24) Badges</b></summary>
 <br>
-<div align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="GSSoC Postman Badge" />
-  </a>
-</div>
+<a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</a>
 </details>
