@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Omkar+Ramgirwar;Full-Stack+Developer+%26+AI+Engineer;Building+Scalable+Systems+%26+Resilient+Web+Apps;SIH+'24+Grand+Finalist+%7C+1690%2B+on+LeetCode)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=780&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Omkar+Ramgirwar;Full-Stack+Developer+%26+AI+Engineer;Creator+of+ChaosBull+(604%2B+Weekly+NPM+Downloads);SIH+'24+Grand+Finalist+%7C+1690%2B+on+LeetCode)](https://git.io/typing-svg)
 
-🎓 Final-Year B.Tech Data Science Student at **GHRCE Nagpur** (CGPA: 8.52/10)  
+🎓 Full Stack Developer and Final year student  
 ⚡ Focused on high-concurrency backends, asynchronous job queues, chaos engineering, and LLM integrations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-ramgirwar-5b9409226/)
@@ -26,17 +26,17 @@
 * **Real-Time Computer Vision Proctoring:** Integrated live proctoring workflows to detect anomalous candidate activity during active assessments.
 
 ### 🌍 Open Source Contributions
-* **Neo Chat ([Merged PR #219](https://github.com/neochat)):** Improved UX in provider configuration state management—ensured switching API types dynamically updates default base URLs while strictly preserving custom user endpoints, backed by unit tests for URL handling.
+* **Neo Chat (Merged PR #219):** Improved UX in provider configuration state management—ensured switching API types dynamically updates default base URLs while strictly preserving custom user endpoints, backed by unit tests for URL handling.
 * **GirlScript Summer of Code (GSSoC '24):** Active contributor and Postman Challenge badge holder.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Live Link | Stack | Key Engineering Highlights |
+| Project | Links & Traction | Stack | Key Engineering Highlights |
 | :--- | :--- | :--- | :--- |
-| **ChaosBull** <br> *Chaos Engineering Extension* | [chaosbull.dev](https://chaosbull.dev) | `JavaScript` `Manifest V3` `Service Workers` | • Injects controlled network faults into web apps to simulate production incidents.<br>• Supports 4 adverse network modes: **Slow 2G, Offline, High Latency, and Request Failures**.<br>• Expands failure test coverage by **25%** to validate retry logic and loading states. |
-| **Hydramon AI** <br> *Smart Hydration Assistant* | [hydramon.vercel.app](https://hydramon.vercel.app) | `Next.js` `FastAPI` `Groq API` `Python` | • Full-stack personalized hydration tracker powered by **Next.js** and **FastAPI**.<br>• Integrated **Groq LLM API** for low-latency analysis of user health and intake habits.<br>• Designed structured input pipelines for context-aware daily recommendations. |
+| **ChaosBull** <br> *Chaos Engineering Extension & NPM Package* | 🌐 [chaosbull.dev](https://chaosbull.dev) <br> 📦 [npm: chaosbull](https://www.npmjs.com/package/chaosbull) <br> ![NPM Downloads](https://img.shields.io/badge/downloads-604%2B%2Fweek-CB3837?style=flat-square&logo=npm&logoColor=white) | `JavaScript` `NPM Package` `Manifest V3` `Service Workers` | • Published on **npm** with **604+ weekly downloads**, alongside a browser extension that injects controlled network faults to simulate production incidents.<br>• Supports 4 adverse network modes: **Slow 2G, Offline, High Latency, and Request Failures**.<br>• Expands failure test coverage by **25%** to validate retry logic, loading states, and recovery workflows. |
+| **Hydramon AI** <br> *Smart Hydration Assistant* | 🌐 [hydramon.vercel.app](https://hydramon.vercel.app) | `Next.js` `FastAPI` `Groq API` `Python` | • Full-stack personalized hydration tracker powered by **Next.js** and **FastAPI**.<br>• Integrated **Groq LLM API** for low-latency analysis of user health and intake habits.<br>• Designed structured input pipelines for context-aware daily recommendations. |
 
 ---
 
@@ -44,6 +44,7 @@
 
 * 🥇 **Grand Finalist & Team Lead** — **Smart India Hackathon (SIH) 2024**
 * 🏅 **Top 5 Finalist** — **HackLLM Hackathon (IIIT Delhi)**
+* 📦 **Published Author on NPM (`chaosbull`)** — **604+ Weekly Downloads**
 * ⚔️ **1690+ Contest Rating on LeetCode** — Strong foundation in Data Structures, Algorithms, and Complexity Analysis
 
 ---
@@ -72,6 +73,36 @@
 ![BullMQ](https://img.shields.io/badge/BullMQ-E34F26?style=for-the-badge&logo=redis&logoColor=white)
 
 **AI, Data Science & DevOps:**  
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 GitHub & Coding Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Omkar2240&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Omkar2240&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar2240&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+<details>
+<summary>🏅 <b>Open Source & Community Badges (Click to Expand)</b></summary>
+<br>
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="GSSoC Postman Badge" />
+  </a>
+</div>
+</details>
