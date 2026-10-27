@@ -26,7 +26,7 @@
 * **Real-Time Computer Vision Proctoring:** Integrated live proctoring workflows to detect anomalous candidate activity during active assessments.
 
 ### 🌍 Open Source Contributions
-* **Neo Chat (Merged PR #219):** Improved UX in provider configuration state management—ensured switching API types dynamically updates default base URLs while strictly preserving custom user endpoints, backed by unit tests for URL handling.
+* **[u14app/neo-chat](https://github.com/u14app/neo-chat) — [Merged PR #219](https://github.com/u14app/neo-chat/pull/219):** `fix(settings): dynamically update API base URL when switching provider type` — Improved UX in provider configuration state management to ensure switching API types dynamically updates default base URLs while strictly preserving custom user endpoints, backed by unit tests for URL handling.
 * **GirlScript Summer of Code (GSSoC '24):** Active contributor and Postman Challenge badge holder.
 
 ---
